@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+#
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper.API", "Minesweeper.API\Minesweeper.API.csproj", "{0378F5FC-E007-40D6-983A-76B7806FC0C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper.Application", "Minesweeper.Application\Minesweeper.Application.csproj", "{46CF663D-D0E2-4113-99B8-DD32C8009695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper.Domain", "Minesweeper.Domain\Minesweeper.Domain.csproj", "{38A17B5E-BC01-410F-B0CD-3B06E6200840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper.DataAccess", "Minesweeper.DataAccess\Minesweeper.DataAccess.csproj", "{F361B629-F473-4AF3-84DD-8FA374080108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0378F5FC-E007-40D6-983A-76B7806FC0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0378F5FC-E007-40D6-983A-76B7806FC0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0378F5FC-E007-40D6-983A-76B7806FC0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0378F5FC-E007-40D6-983A-76B7806FC0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46CF663D-D0E2-4113-99B8-DD32C8009695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CF663D-D0E2-4113-99B8-DD32C8009695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CF663D-D0E2-4113-99B8-DD32C8009695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CF663D-D0E2-4113-99B8-DD32C8009695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A17B5E-BC01-410F-B0CD-3B06E6200840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A17B5E-BC01-410F-B0CD-3B06E6200840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A17B5E-BC01-410F-B0CD-3B06E6200840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A17B5E-BC01-410F-B0CD-3B06E6200840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F361B629-F473-4AF3-84DD-8FA374080108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F361B629-F473-4AF3-84DD-8FA374080108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F361B629-F473-4AF3-84DD-8FA374080108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F361B629-F473-4AF3-84DD-8FA374080108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
